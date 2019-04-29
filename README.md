@@ -1,4 +1,7 @@
 # rest-api
+
+# link deploy 
+### mri-restapi.herokuapp.com
 ## List of user routes:
 
 Route            | HTTP   | Request                     | Response
@@ -42,8 +45,7 @@ License
 ----
 
 MRI
-#link deploy 
-mri-restapi.herokuapp.com
+                               
 
 
 **Free Software, Hell Yeah!**
