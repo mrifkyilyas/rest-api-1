@@ -5,5 +5,21 @@
     "database": "bgwljdnv",
     "host": "isilo.db.elephantsql.com",
     "dialect": "postgres"
+  },
+  "test": {
+    "username" : "root",
+    "password": null,
+    "database": "bgwljdnv",
+    "host": "isilo.db.elephantsql.com",
+    "dialect": "postgres"
+
+  },
+  "production": {
+    "username" : "zcyhayulgglpfe",
+    "password": "10302b95b78785bb3e037aab2e30af6c3c7594ac6cd3b3cd35af8f9d3567f28e",
+    "database": "d5vjb206n14fbr",
+    "host": "ec2-54-197-234-117.compute-1.amazonaws.com",
+    "dialect": "postgres"
+
   }
 }
