@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "bgwljdnv",
+    "password": "TOuscikXUatJsBf1yhVooean4BG3U_Ol",
+    "database": "bgwljdnv",
+    "host": "isilo.db.elephantsql.com",
+    "dialect": "postgres"
+  }
+}
